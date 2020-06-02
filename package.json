@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daniofilho/electron-as-webview/issues"
   },
-  "homepage": "https://github.com/daniofilho/electron-as-webview#readme"
+  "homepage": "https://github.com/daniofilho/electron-as-webview#readme",
+  "dependencies": {
+    "electron": "^9.0.1"
+  }
 }
