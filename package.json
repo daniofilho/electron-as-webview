@@ -1,0 +1,19 @@
+{
+  "name": "electron-as-webview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniofilho/electron-as-webview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniofilho/electron-as-webview/issues"
+  },
+  "homepage": "https://github.com/daniofilho/electron-as-webview#readme"
+}
